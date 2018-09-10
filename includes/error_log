@@ -1,0 +1,167 @@
+[13-Aug-2018 08:12:19 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:12:19 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:12:29 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:12:29 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:13:03 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:13:03 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:13:15 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:15 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:15 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:15 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:16 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:16 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 3
+[13-Aug-2018 08:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 3
+[13-Aug-2018 08:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 3
+[13-Aug-2018 08:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 3
+[13-Aug-2018 08:13:56 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:56 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:56 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:56 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:57 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:13:57 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:00 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:00 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:01 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:01 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:02 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:02 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:03 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:03 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:04 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:04 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:29 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:29 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:30 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:30 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:14:33 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:33 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:36 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:36 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:42 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:42 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:43 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:43 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:44 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:44 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:45 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:45 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:47 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:14:47 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:04 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:04 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:08 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:08 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:09 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:09 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:14 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:15 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:29 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:29 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:49 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:49 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:57 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:57 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[13-Aug-2018 08:15:58 UTC] PHP Warning:  require(/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:15:58 UTC] PHP Fatal error:  require(): Failed opening required '/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:15:58 UTC] PHP Warning:  require(/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:15:58 UTC] PHP Fatal error:  require(): Failed opening required '/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:15:59 UTC] PHP Warning:  require(/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:15:59 UTC] PHP Fatal error:  require(): Failed opening required '/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:16:05 UTC] PHP Warning:  require(/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:16:05 UTC] PHP Fatal error:  require(): Failed opening required '/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 2
+[13-Aug-2018 08:16:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 5
+[13-Aug-2018 08:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 5
+[13-Aug-2018 08:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 5
+[13-Aug-2018 08:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rodosbil/public_html/demo/work-1/includes/addcart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 5
+[13-Aug-2018 09:04:37 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 28
+[13-Aug-2018 09:04:49 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 29
+[13-Aug-2018 09:04:54 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 29
+[13-Aug-2018 10:37:14 UTC] PHP Parse error:  syntax error, unexpected '"asd"' (T_CONSTANT_ENCAPSED_STRING) in /home/rodosbil/public_html/demo/work-1/includes/addcart.php on line 12
+[30-Aug-2018 13:09:36 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:09:36 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:09:43 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:09:43 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:09:46 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:09:46 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:09:54 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 2
+[30-Aug-2018 13:09:54 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 2
+[30-Aug-2018 13:09:56 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 2
+[30-Aug-2018 13:09:56 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 2
+[30-Aug-2018 13:09:56 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 2
+[30-Aug-2018 13:09:56 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 2
+[30-Aug-2018 13:10:00 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:00 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:01 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:01 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:01 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:01 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:02 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:02 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:02 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:12 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:12 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:13 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:13 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:14 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:14 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:15 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:15 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:15 UTC] PHP Warning:  require(includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[30-Aug-2018 13:10:15 UTC] PHP Fatal error:  require(): Failed opening required 'includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/config.php on line 3
+[04-Sep-2018 12:32:18 UTC] PHP Warning:  require(vendor/lang/tr.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/lang.php on line 13
+[04-Sep-2018 12:32:18 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/lang/tr.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/lang.php on line 13
+[04-Sep-2018 12:32:20 UTC] PHP Warning:  require(vendor/lang/tr.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/lang.php on line 13
+[04-Sep-2018 12:32:20 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/lang/tr.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/lang.php on line 13
+[04-Sep-2018 12:32:32 UTC] PHP Warning:  require(/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 10
+[04-Sep-2018 12:32:32 UTC] PHP Fatal error:  require(): Failed opening required '/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 10
+[04-Sep-2018 12:32:36 UTC] PHP Warning:  require(vendor/lang/tr.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/lang.php on line 13
+[04-Sep-2018 12:32:36 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/lang/tr.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/lang.php on line 13
+[04-Sep-2018 12:32:40 UTC] PHP Warning:  require(/includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 10
+[04-Sep-2018 12:32:40 UTC] PHP Fatal error:  require(): Failed opening required '/includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 10
+[04-Sep-2018 12:32:42 UTC] PHP Warning:  require(/includes/lang.php): failed to open stream: No such file or directory in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 10
+[04-Sep-2018 12:32:42 UTC] PHP Fatal error:  require(): Failed opening required '/includes/lang.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 10
+[04-Sep-2018 12:34:07 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:08 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:09 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:29 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:29 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:44 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:44 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:45 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:45 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:34:58 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:35:03 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:35:17 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:35:18 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:35:18 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9
+[04-Sep-2018 12:35:18 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/rodosbil/public_html/demo/work-1/includes/chartdata.php on line 9

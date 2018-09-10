@@ -1,0 +1,9 @@
+.block2-labelsale::before {
+  background-color: #e65540;
+  content: 'Fırsat';
+}
+
+.block2-labelnew::before {
+  background-color: #66a8a6;
+  content: 'Yeni';
+}
